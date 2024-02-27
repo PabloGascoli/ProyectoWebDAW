@@ -179,9 +179,14 @@ footer {
     height: 100px;
     text-align: end;
     padding: 2rem;
+    color: #fff;
 }
+footer ul li{
+    font-size: 13px;
+}
+
 footer a {
-    color: white;
+    color: #5578A3;
 }
 
 @media (min-width: 1000px) {
